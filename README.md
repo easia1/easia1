@@ -1,4 +1,4 @@
-[![Header](https://user-images.githubusercontent.com/85211112/153618338-5fd9def5-fce6-4871-af3f-cccb44ff776d.png)](https://easia1.github.io/portfolio)
+[![Header](https://user-images.githubusercontent.com/85211112/153618867-4d2a57ee-88f8-4220-9615-a099fdd20128.png)](https://easia1.github.io/portfolio)
 
 
 
