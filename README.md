@@ -1,4 +1,4 @@
-[![Header](https://user-images.githubusercontent.com/85211112/153618867-4d2a57ee-88f8-4220-9615-a099fdd20128.png)](https://easia1.github.io/portfolio)
+[![Header](https://user-images.githubusercontent.com/85211112/153621618-494dd620-52f9-4358-831d-eff74b77ebd0.png)](https://easia1.github.io/portfolio)
 
 ## Skills
 
