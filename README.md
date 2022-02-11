@@ -1,5 +1,3 @@
-
-[![Header](https://user-images.githubusercontent.com/85211112/153618338-5fd9def5-fce6-4871-af3f-cccb44ff776d.png)](https://martinheinz.dev/)
 [![Header](https://user-images.githubusercontent.com/85211112/153618338-5fd9def5-fce6-4871-af3f-cccb44ff776d.png)](https://easia1.github.io/portfolio)
 
 
