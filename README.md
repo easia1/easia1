@@ -3,7 +3,7 @@
 
 ![Eman's GitHub stats](https://github-readme-stats.vercel.app/api?username=easia1&count_private=true&show_icons=true&title_color=7fcdd6&text_color=ffffff&icon_color=7fcdd6&hide_border=true&bg_color=003249)
 
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=easia1&count_private=true&show_icons=true&title_color=7fcdd6&text_color=ffffff&icon_color=7fcdd6&hide_border=true&bg_color=003249)](https://github.com/easia1)
 
 
 <!--
